@@ -1,6 +1,6 @@
 # React Redux Weather App
 
-For the jet-setter or the simply curious. 5 Day Weather Forecast app built with React, Redux, and Cordova. This app provides the user with Temperatures in Celsius and Humidity as a percentage. In addition, users may add weather data from around the world and save favorite locations. Intended to provide a smooth mobile user experience, the app includes descriptive yet minimalistic icons that represent various weather conditions. Weather data is pulled from OpenWeather's API, and icons change depending on the values retrieved from the API.
+For the jet-setter or the simply curious, this 5 Day Weather Forecast app was built with React, Redux, and Cordova. The app provides the user with Temperatures in Celsius and Humidity as a percentage. In addition, users may add weather data from around the world and save favorite locations. Intended to provide a smooth mobile user experience, the app includes descriptive yet minimalistic icons that represent various weather conditions. Weather data is pulled from OpenWeather's API, and icons change depending on the values retrieved from the API.
 
 
 ## How to run it
